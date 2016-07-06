@@ -1,9 +1,9 @@
 # FEAT
-Front-End Automate Testing
+Front-End Automated Test
 
 
 Imagine a tool that tests your WEB UI without using any programming language,
-just by filling a Excel Spreadsheet about you want to test and the expected results,
+just by filling a Excel spreadsheet about what you want to test and the expected results,
 besides it generates all the snapshot of what was tested.
 
 
